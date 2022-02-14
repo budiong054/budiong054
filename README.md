@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Blessing Udiong
-- 👀 I’m interested in Mathematics and Technology
-- 🌱 I’m currently learning Numerical computation using python and LaTeX 
-- 💞️ I’m looking to collaborate on Python for Data science 
-- 📫 How to reach me Email: udiongblessing@gmail.com
+- 👀 I’m interested in Mathematics, software development, Machine Learning and Artificial intelligence
+- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 💞️ I’m looking to collaborate with an experienced developer to enhance my skills 
+- 📫 How to reach me Email: udiongblessing@gmail.com or udiongblessing054@gmail.com you
 
 <!---
 budiong054/budiong054 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
