@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blessing Udiong
 - 👀 I’m interested in Mathematics, software development, Machine Learning and Artificial intelligence
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 🌱 I’m currently a Software Engineer at ALX 
 - 💞️ I’m looking to collaborate with an experienced developer to enhance my skills 
 - 📫 How to reach me Email: udiongblessing@gmail.com or udiongblessing054@gmail.com you
 
