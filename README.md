@@ -1,14 +1,30 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="300" heigth="30"/>
   
-# Hi :wave:, I'm Blessing Udiong 💻 </div>
+# Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40"/>, I'm Blessing Udiong 💻 </div>
 </div>
 
+<div> <img src="https://komarev.com/ghpvc/?username=budiong054&style=flat-square&color=blue" alt="Profile"/>
+<img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/5e8e2b586a7a5f75a999e1c3080b66c3e1c4e93a172cd26207e184f5219353d5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61622f63342f35622f61626334356239633335366662623834363633326630313061613361343465662e676966">
+</div>
 
+<div>
+ 
+
+- 👨‍🎓 I'm a Software Engineering Student at [ALX](https://www.alxafrica.com)
+
+- 🌱 I'm not just learning how to write codes but I am learning how to solve problems
+
+- 🔭 I believe that with technology many problems and challenges in africa and the world at large could solved
+
+- ⚜ All of my projects are available [Here!](https://github.com/budiong054?tab=repositories)
+</div>
+
+<div>
 
 ### Connect with me:
 
-
+</div>
 
 ### 🛠️ Languages and Tools:
 
