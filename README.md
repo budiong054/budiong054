@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img align="center" alt="Coding" width="320" src="https://media.giphy.com/media/RfRkr4IaI5hxDUaW5l/giphy.gif" style="border-radius=50%;">
+  <img align="center" alt="Coding" width="90%" src="https://media.giphy.com/media/RfRkr4IaI5hxDUaW5l/giphy.gif" style="border-radius=50%;">
   
 # Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40"/>, I'm Blessing Udiong 💻 </div>
 </div>
@@ -18,12 +18,6 @@
 - 🔭 I believe that with technology many problems and challenges in africa and the world at large could solved
 
 - ⚜ All of my projects are available [Here!](https://github.com/budiong054?tab=repositories)
-</div>
-
-<div>
-
-### Connect with me:
-
 </div>
 
 ### 🛠️ Languages and Tools:
