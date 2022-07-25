@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="300" heigth="30"/>
-  
+   
 # Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40"/>, I'm Blessing Udiong 💻 </div>
 </div>
 
@@ -42,7 +41,13 @@
 ### :fire: My Stats : [Go Here !](http://github-readme-streak-stats.herokuapp.com?user=budiong054&theme=highcontrast&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=budiong054&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
+[![Blessing's GitHub stats](https://github-readme-stats.vercel.app/api?username=budiong054&theme=vision-friendly-dark&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=budiong054&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">My Contributions 🤔</h3>
+  <img src=" https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Graph contribution"/>
+     
 
 
 <div id="badges" align="center">
