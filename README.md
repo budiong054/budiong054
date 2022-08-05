@@ -15,7 +15,7 @@
 
 - 🌱 I'm not just learning how to write codes but I am learning how to solve problems
 
-- 🔭 I believe that with technology many problems and challenges in africa and the world at large could solved
+- 🔭 I believe that with technology many problems and challenges in africa and the world at large can be solved
 
 - ⚜ All of my projects are available [Here!](https://github.com/budiong054?tab=repositories)
 </div>
