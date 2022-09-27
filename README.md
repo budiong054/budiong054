@@ -4,6 +4,8 @@
 # Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40"/>, I'm Blessing Udiong 💻 </div>
 </div>
 
+
+
 <div> <img src="https://komarev.com/ghpvc/?username=budiong054&style=flat-square&color=blue" alt="Profile"/>
 <img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/5e8e2b586a7a5f75a999e1c3080b66c3e1c4e93a172cd26207e184f5219353d5/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61622f63342f35622f61626334356239633335366662623834363633326630313061613361343465662e676966">
 </div>
@@ -18,11 +20,12 @@
 - 🔭 I believe that with technology many problems and challenges in africa and the world at large can be solved
 
 - ⚜ All of my projects are available [Here!](https://github.com/budiong054?tab=repositories)
-</div>
+</div
 
 ### 🛠️ Languages and Tools:
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
